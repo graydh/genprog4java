@@ -1,0 +1,10 @@
+Location:
+RandomExample tester=new RandomExample();
+Weight:
+0.1
+
+Location:
+assertTrue("Should be greater than 0.0",tester.give() > 0.2);
+Weight:
+0.1
+
